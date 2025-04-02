@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Johnny B.'s blog!
 ---
-
+## First heading
+- [ ] much to do
